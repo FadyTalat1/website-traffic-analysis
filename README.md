@@ -5,7 +5,7 @@ This project analyzes website traffic data to identify key trends, top-performin
 
 ## Project Workflow
 To ensure a structured approach, I used a **Trello Board** to track the analysis process:
-- **[View Trello Board](#)** (Replace with actual link)
+- **[View Trello Board](Trello1.jpg)** 
 
 ### Key Stages:
 1. **Goal Definition**: Identifying the problem and setting KPIs.
