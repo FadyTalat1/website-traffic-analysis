@@ -20,11 +20,11 @@ The interactive Power BI dashboard showcases:
 - Top-performing pages based on bounce rate and conversion rate.
 - Traffic sources breakdown.
 
-📊 **[View Dashboard](./Website Traffic Report.pdf)** 
+📊 **[View Dashboard](https://github.com/FadyTalat1/website-traffic-analysis/blob/main/Website%20Traffic%20Report.pdf)** 
 
 ## Presentation
 A detailed report summarizing key insights and recommendations:
-📄 **[Download Presentation](./Weekly Website Traffic Presentation.pdf)** 
+📄 **[Download Presentation](https://github.com/FadyTalat1/website-traffic-analysis/blob/main/Weekly%20Website%20Traffic%20Presentation.pdf)** 
 
 ## Key Takeaways
 - Identified high-converting traffic sources.
